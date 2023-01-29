@@ -37,6 +37,17 @@ I want to inform users of this Service that these third parties have access to t
 
 I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
 
+**Facial Mocap Data Collection and Use / Apple TrueDepth API**
+
+MoCap Suite uses the TrueDepth APIs to capture facial motion data for animation purposes only. This data is not collected, stored, or sold to any third parties.
+
+*Data Protection*
+
+We take appropriate measures to protect the facial motion data collected through the TrueDepth APIs from unauthorized use, disclosure, or access by third parties. If a user revokes their consent for the collection of this data, we will promptly cease all use of it.
+
+
+
+
 **Links to Other Sites**
 
 This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
