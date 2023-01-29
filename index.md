@@ -41,12 +41,9 @@ I value your trust in providing us your Personal Information, thus we are strivi
 
 MoCap Suite uses the TrueDepth APIs to capture facial motion data for animation purposes only. This data is not collected, stored, or sold to any third parties.
 
-*Data Protection*
+**Data Protection**
 
-We take appropriate measures to protect the facial motion data collected through the TrueDepth APIs from unauthorized use, disclosure, or access by third parties. If a user revokes their consent for the collection of this data, we will promptly cease all use of it.
-
-
-
+The MoCap Suite app utilizes the TrueDepth API for facial animation purposes only. We do not collect, store, or sell any data obtained through the use of this API. The facial motion data captured is used solely for animation within the app and is deleted immediately after use. We take appropriate measures to protect this data from unauthorized access or use, and strictly adhere to user consent regarding its collection. The privacy of our users is a top priority and we assure that no data obtained through the TrueDepth API will be shared or used for any purpose other than animation within the MoCap Suite app.
 
 **Links to Other Sites**
 
